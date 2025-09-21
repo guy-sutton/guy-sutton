@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🛠 Skills
+- Python (data analysis, visualization)
+- Excel & Google Sheets
+- AutoCAD
+- Data cleaning, lab reports, basic statistics
+
 <!--
 **guy-sutton/guy-sutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
