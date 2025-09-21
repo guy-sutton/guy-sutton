@@ -15,7 +15,7 @@ Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 - *Data storytelling*
 
 ## 📫 Connect
-[Email](mailto:guysutton1234@gmail.com)
+- **Email me here:** [Email](mailto:guysutton1234@gmail.com)
 <!--
 **guy-sutton/guy-sutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
