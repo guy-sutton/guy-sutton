@@ -11,8 +11,8 @@ Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 - *Lab reports, basic statistics*
 
 ## 🌱 Learning
--*SQL*
--*Data storytelling*
+- *SQL*
+- *Data storytelling*
 
 ## 📫 Connect
 [Email](mailto:guysutton1234@gmail.com)
