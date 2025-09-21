@@ -1,11 +1,21 @@
-## Hi there 👋
+## Hi, I'm Guy 👋
+Aspiring data analyst with a passion for **Python** and **data visualization**.
+Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
+
+## 🚀 Projects
+-
 
 ## 🛠 Skills
-- Python (data analysis, visualization)
-- Excel & Google Sheets
-- AutoCAD
-- Data cleaning, lab reports, basic statistics
+- *Python* (Pandas, NumPy)
+- *Excel / Google Sheets*
+- *Lab reports, basic statistics*
 
+## 🌱 Learning
+-*SQL*
+-*Data storytelling*
+
+## 📫 Connect
+[Email](mailto:guysutton1234@gmail.com)
 <!--
 **guy-sutton/guy-sutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
