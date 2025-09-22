@@ -15,6 +15,7 @@ Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 ## 🌱 Learning
 - *SQL*
 - *Data storytelling*
+- *Power BI*
 
 ## 📫 Connect
 - **Email me here:** [Email](mailto:guysutton1234@gmail.com)
