@@ -6,10 +6,11 @@ Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 ## 🚀 Projects
 -
 
-## 🛠 Skills
-- *Python* (Pandas, NumPy)
-- *Excel / Google Sheets*
-- *Lab reports, basic statistics*
+## 🛠 Skills & Tools
+- **Programming:** Python (*Pandas, NumPy, Matplotlib, Seaborn*)  
+- **Data Handling:** Excel / Sheets   
+- **Tools & Environment:** Jupyter Notebooks, Anaconda  
+- **Other:** AutoCAD, lab report preparation, basic statistics
 
 ## 🌱 Learning
 - *SQL*
