@@ -7,14 +7,14 @@ Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 - Rolling Stone’s 500 Greatest Albums – Data Analysis: [View Project](https://github.com/guy-sutton/rolling-stone-500-analysis)
 
 ## 🛠 Skills & Tools
-- **Programming:** Python (*Pandas, NumPy, Matplotlib, Seaborn*)  
+- **Programming:** Python (*Pandas, NumPy, Matplotlib*)  
 - **Data Handling:** Excel / Sheets   
 - **Tools & Environment:** Jupyter Notebooks, Anaconda  
 - **Other:** AutoCAD, lab report preparation, basic statistics
 
 ## 🌱 Learning
 - *SQL*
-- *Data storytelling*
+- *Seaborn*
 - *Power BI*
 
 ## 📫 Connect
