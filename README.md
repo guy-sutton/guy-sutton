@@ -4,7 +4,7 @@ Aspiring data analyst with a passion for **Python** and **data visualization**.
 Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 
 ## 🚀 Projects
--
+- Rolling Stone’s 500 Greatest Albums – Data Analysis: 
 
 ## 🛠 Skills & Tools
 - **Programming:** Python (*Pandas, NumPy, Matplotlib, Seaborn*)  
