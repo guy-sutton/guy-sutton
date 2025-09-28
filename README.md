@@ -1,5 +1,5 @@
 ## Hi, I'm Guy 👋
-Aspiring data analyst with a passion for **Python** and **data visualization**.
+Enthusiast for coding and working with data using **Python** and **data visualisation** techniques.
 
 Here are some **projects** that I've *enjoyed* doing and have helped me *learn*:
 
